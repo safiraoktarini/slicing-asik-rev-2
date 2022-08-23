@@ -1,0 +1,27 @@
+
+.gradient-card {
+    background-image: linear-gradient(to right, #6BAF92 , #DDDDDD);
+}
+
+.circle {
+    background-color: #6BAF92;
+    border-radius: 50%;
+    height: 360px;
+    width: 360px;
+    padding: 12.5% 0 12.5% 0;
+    
+}
+
+.circle img {
+    height: 160px;
+    margin: auto ;
+}
+
+.green-line {
+    background-color: #6BAF92;
+    height: 5px;
+}
+
+.dashboard-card {
+    height: 175px;
+}
